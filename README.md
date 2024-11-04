@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Dev/Cyber Security
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on designing your websites
-- 📫 How to reach me +234913219719
+- 📫 How to reach me +2349132197149
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: love coding
 
