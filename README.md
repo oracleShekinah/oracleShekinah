@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @oracleShekinah
+- 👀 I’m interested in Web Dev/Cyber Security
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on designing your websites
+- 📫 How to reach me +234913219719
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: love coding
+
+<!---
+oracleShekinah/oracleShekinah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
