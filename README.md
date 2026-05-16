@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oracleShekinah
-- 👀 I’m interested in Web Dev/Monile Dev and Blockchain Dev
+- 👀 I’m interested in Web Dev/Mobile Dev and Blockchain Dev
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on designing your websites
 - 📫 How to reach me +2349132197149
